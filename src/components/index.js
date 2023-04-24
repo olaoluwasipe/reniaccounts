@@ -1,0 +1,11 @@
+export { default as Hero } from './Hero';
+export {default as Features} from './Features';
+export {default as Steps} from './Steps';
+export {default as Navbar} from './Navbar';
+export {default as Pricing} from './Pricing';
+export {default as Products} from './Products';
+export {default as Offer} from './Offer';
+export {default as Main} from './Main';
+export {default as Login} from './Login';
+export {default as Register} from './Register';
+export {default as Footer} from './Footer';
